@@ -1,5 +1,24 @@
 .navbar{
     width: 100%;
+    display: flex;
     height: 70px;
-    background-color: #15023a ;
+    background-color: white ;
+    position: fixed;
+    top: 0;
+    z-index: 2;
+}
+
+.wrapper{
+    padding: 10px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    
+}
+
+.name{
+    text-decoration: none;
+    font-size:30px;
+    font-weight: 700;
 }

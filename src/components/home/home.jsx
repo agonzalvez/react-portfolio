@@ -4,7 +4,6 @@ import './home.css';
 function home() {
     return (
         <div className='home'>
-            
         </div>
     )
 }

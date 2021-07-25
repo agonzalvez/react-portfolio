@@ -1,6 +1,7 @@
 import React from 'react'
+import './work.css'
 
-function navbar() {
+function work() {
     return (
         <div>
             
@@ -8,4 +9,4 @@ function navbar() {
     )
 }
 
-export default navbar
+export default work

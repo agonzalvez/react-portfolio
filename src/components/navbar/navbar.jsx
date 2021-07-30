@@ -6,7 +6,7 @@ function navbar() {
         <div className='navbar'>
             <div className="wrapper">
                 <div className="left">
-                    <a href="#top" className='name'>Alejandro Gonzalvez</a>
+                    <a href="#top" className='name'>Alejandro Gonzalvez <i class="fas fa-code-branch"></i></a>
                     <div className="itemContainer"></div>
                 </div>
                 <div className="right">

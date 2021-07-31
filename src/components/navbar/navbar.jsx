@@ -10,13 +10,10 @@ function navbar() {
                     <div className="itemContainer"></div>
                 </div>
                 <div className="right">
-                    
-                    <a href="#about" className='about-link'>About | </a>
-                    <a href="#work" className='work-link'>Work | </a>
-                    <a href="#contact" className='contact-link'>Contact | </a>
-                    <a href="#resume" className='resume-link'>Resume </a>
-                    <i class="fas fa-bars" />
-
+                    <div className="hamburger"></div>
+                    <span className="line-1"></span>
+                    <span className="line-2"></span>
+                    <span className="line-3"></span>
                 </div>
             </div>
         </div>

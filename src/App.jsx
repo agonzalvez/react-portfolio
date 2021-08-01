@@ -2,7 +2,7 @@ import Navbar from './components/navbar/navbar'
 import About from './components/about/about';
 import Work from './components/work/work';
 import Resume from './components/resume/resume';
-import './App.css';
+import './App.scss';
 
 
 function App() {

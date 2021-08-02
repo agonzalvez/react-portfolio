@@ -20,7 +20,8 @@ This is my portfolio website, which showcases some of my latest projects. It als
 ## Installation
 1) Copy the projects package.json 2) Run npm install on your Terminal or Gitbash
 ## Usage
-[Click](https://agonzalvez.github.io/react-portfolio/) this link watch video walkthrough for this app. 
+- ![portfolio gif](src/images/portfolio.gif) 
+- [Link to Portfolio](https://agonzalvez.github.io/react-portfolio/)
 ## License
 This application is under the MIT license.  
 ## Contributors

@@ -18,8 +18,18 @@ export default function Contact() {
       <a href="mailto:agonzalvez1@gmail.com">
       <i className="far fa-envelope fa-10x"></i>
       </a>
+      <a href="https://github.com/agonzalvez">
+      <i class="fab fa-github fa-10x"></i>
+      </a>
       <ul>
-        <li><h2>Phone: <a href="tel:+17863657652">+1 (786) 365-7652</a></h2></li>
+        <li>
+          <h2>
+            Phone:
+            </h2>
+        </li>
+        <li>
+        <a href="tel:+17863657652"><p>+1 (786) 365-7652</p></a>
+        </li>
       </ul>
       </div>
     </div>

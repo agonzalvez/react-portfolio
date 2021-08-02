@@ -5,43 +5,96 @@
   flex: 0.5;
   display: flex;
   align-items: center;
-  justify-content:space-evenly;
+  justify-content: space-evenly;
   position: relative;
   color: white;
 
-  .item{
-    
-    .right{
-      padding-top: 10px;
-    }
-  }
-
-  img{
-    height: 300px;
-    width: 300px;
-    background-position: contain;
-    display: flex;
-    border-radius: 20px ;
-    background-image: url("./fyflogo.png");
-  }
-
-  @include mobile{
-    display:contents;
+  @include mobile {
+    display: contents;
     flex-direction: column;
     padding: 20px;
-
-    .right{
-      display: flex;
-      justify-content: center;
-      background-color: crimson;
-      padding: 20px;  
-    }
-
-    .item{
-      background-color: crimson;
-      padding:20px;
-    }
-    
   }
-  
+
+  .item {
+    .right {
+      padding-top: 10px;
+    }
+
+    .fyf-logo {
+      background-image: url("./fyflogo.png");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position-x: center;
+      transition: 2s ease-in-out;
+
+    }
+    .fyf-logo:hover{
+      transform: scale(1.2);
+    }
+
+    .read-me {
+      background-image: url("./readme.png");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position-x: center;
+      transition: 2s ease-in-out;
+
+    }
+    .read-me:hover{
+      transform: scale(1.2);
+    }
+
+    .google-book {
+      background-image: url("./google-book.png");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position-x: center;
+      transition: 2s ease-in-out;
+
+    }
+    .google-book:hover{
+      transform: scale(1.2);
+    }
+
+    .fitness-tracker {
+      background-image: url("./nosql.png");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position-x: center;
+	    transition: 2s ease-in-out;
+      
+    }
+
+    .fitness-tracker:hover{
+      transform: scale(1.2);
+    }
+
+
+  }
+}
+
+img {
+  height: 300px;
+  width: 300px;
+  display: flex;
+  border-radius: 20px;
+  cursor:pointer;
+}
+
+@include mobile {
+  display: contents;
+  flex-direction: column;
+  padding: 20px;
+
+  .right {
+    display: flex;
+    justify-content: center;
+    background-color: crimson;
+    padding: 20px;
+  }
+
+  .item {
+    background-color: crimson;
+    padding: 20px;
+  }
 }

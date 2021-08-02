@@ -31,6 +31,10 @@
       color: inherit;
     }
 
+    p{
+      font-size: 30px;
+    }
+
     @include mobile {
       display: flex;
       flex-direction: column;

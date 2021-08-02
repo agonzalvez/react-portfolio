@@ -19,7 +19,7 @@ export default function Contact() {
       <i className="far fa-envelope fa-10x"></i>
       </a>
       <ul>
-        <li><h2>Phone: +1 (786) 365-7652</h2></li>
+        <li><h2>Phone: <a href="tel:+17863657652">+1 (786) 365-7652</a></h2></li>
       </ul>
       </div>
     </div>

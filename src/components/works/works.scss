@@ -18,8 +18,11 @@
 
   img{
     height: 300px;
+    width: 300px;
+    background-position: contain;
     display: flex;
     border-radius: 20px ;
+    background-image: url("./fyflogo.png");
   }
 
   @include mobile{

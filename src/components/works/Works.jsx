@@ -10,11 +10,11 @@ export default function Works() {
       <div className="work-1">
         <div className="container">
           <div className="item">
-            <h2>Feel Your Feelingsssss</h2>
+            <h2>Feel Your Feelings</h2>
             <p>Description</p>
             <div className="right">
               <img
-                src="https://cdn.shopify.com/s/files/1/0533/2089/files/placeholder-images-image_large.png?format=jpg&quality=90&v=1530129081"
+                src="src/components/works/fyflogo.png"
                 alt=""
               />
             </div>
@@ -29,7 +29,7 @@ export default function Works() {
             <p>Description</p>
             <div className="right">
               <img
-                src="https://cdn.shopify.com/s/files/1/0533/2089/files/placeholder-images-image_large.png?format=jpg&quality=90&v=1530129081"
+                src=""
                 alt=""
               />
             </div>

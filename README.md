@@ -27,7 +27,7 @@ This application is under the MIT license.
 ## Contributors
 N/A.
 ## Testing
-This application was tested using N/A
+N/A.
 ## Questions
 For more information, please visit [GitHub Profile](https://github.com/agonzalvez/).  
 For any questions, you may email me at agonzalvez1@gmail.com.

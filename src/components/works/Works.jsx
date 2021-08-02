@@ -10,7 +10,7 @@ export default function Works() {
       <div className="work-1">
         <div className="container">
           <div className="item">
-            <h2>Feel Your Feelings</h2>
+            <h2>Feel Your Feelingsssss</h2>
             <p>Description</p>
             <div className="right">
               <img

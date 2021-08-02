@@ -3,7 +3,7 @@ import About from "./components/about/About"
 import Works from "./components/works/Works"
 import Contact from "./components/contact/Contact"
 import Resume from "./components/resume/Resume"
-import "./app.scss"
+import "./App.scss"
 import { useState } from "react";
 import Menu from "./components/menu/Menu";
 

@@ -5,7 +5,8 @@ export default function Works() {
 
   return (
     <div className="works" id="works">
-      
+
+       
       <div className="work-1">
         <div className="container">
           <div className="item">
@@ -66,8 +67,8 @@ export default function Works() {
         </div>
       </div>
 
+      </div>
 
-    </div>
 
   );
 }

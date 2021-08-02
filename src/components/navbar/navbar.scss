@@ -28,7 +28,6 @@
         color: inherit;
         margin-right: 40px;
       }
-
     }
 
     .right {
@@ -70,5 +69,11 @@
         }
       }
     }
+  }
+  @include mobile {
+    
+      display: flex;
+      height: fit-content;
+    
   }
 }

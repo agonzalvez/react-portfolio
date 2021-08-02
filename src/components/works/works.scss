@@ -2,6 +2,7 @@
 
 .works {
   background-color: crimson;
+  flex: 0.5;
   display: flex;
   align-items: center;
   justify-content:space-evenly;
@@ -22,14 +23,20 @@
   }
 
   @include mobile{
-    display:inline-block;
+    display:contents;
     flex-direction: column;
     padding: 20px;
 
     .right{
       display: flex;
       justify-content: center;
-      
+      background-color: crimson;
+      padding: 20px;  
+    }
+
+    .item{
+      background-color: crimson;
+      padding:20px;
     }
     
   }

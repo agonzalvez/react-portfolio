@@ -11,7 +11,7 @@ export default function Resume() {
         </div>
       </div>
       <div className="right">
-        <h4> Need to figure out how to render my resume... I don't want a link </h4>
+      <iframe src="https://drive.google.com/file/d/1X-ISsqFkRUBWLYyN_uTjBfgLaGi3ZsS2/preview" height="800px"></iframe>
       </div>
     </div>
   );

@@ -13,8 +13,17 @@ export default function Contact() {
         </div>
       </div>
       <div className="right">
-        <h4>Email + logos</h4>
+      <a href="https://www.linkedin.com/in/gonzalvezalejandro/">
+      <i className="fab fa-linkedin fa-10x"></i>
+      </a>
+      <a href="mailto:agonzalvez1@gmail.com">
+      <i className="far fa-envelope fa-10x"></i>
+      </a>
+      <ul>
+        <li><h2>Phone: +1 (786) 365-7652</h2></li>
+      </ul>
       </div>
     </div>
+
   );
 }

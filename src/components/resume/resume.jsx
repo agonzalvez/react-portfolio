@@ -11,7 +11,7 @@ export default function Resume() {
         </div>
       </div>
       <div className="right">
-      <iframe src="https://drive.google.com/file/d/1X-ISsqFkRUBWLYyN_uTjBfgLaGi3ZsS2/preview" height="800px"></iframe>
+      <iframe src="https://drive.google.com/file/d/17Ef4sNQvT35FDcezYGiffnp-1eLX96_P/preview" height="800px"></iframe>
       </div>
     </div>
   );

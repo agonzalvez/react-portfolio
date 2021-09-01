@@ -26,10 +26,11 @@ export default function Intro() {
         </div>
       </div>
       <div className="right">
-        <h4>Alejandro Gonzalvez is a full-stack developer, photographer, video editor, with a degree in advertising from Florida International University, and a Web Developer Certificate from UCLA. 
-          He was the videographer and editor for Bill De Blasio’s 2017 New York City mayoral re-election campaign. During that time, he worked closely with De Blasio’s campaign manager and was in charge of filming and editing Bernie Sanders’ endorsement speech. 
-          Gonzalvez is passionate about the performing arts and has created multiple dance films in collaboration with dancers from Miami City Ballet and Broadway. He also contributed to Miami’s music scene by helping promote artists, providing marketing tools for music agencies, and producing concerts for headliners such as St. Vincent and Of Montreal. 
-          Gonzalvez was part of the inaugural Open Ice team, working both as a graphic designer and sole editor. </h4>
+        <h4>I am a Full-stack web developer leveraging my background in advertising to provide unique perspectives on how end-users interact with websites and software platforms. 
+          Recently, I earned a certificate in Full Stack Web Development from UCLA Extension Coding Bootcamp. 
+          The technologies I am most familiar with include: HTML5, CSS3, Bootstrap, JavaScript, Handlebars, jQuery, React.js, MySQL, NoSql, MongoDB, and Mongoose. 
+          I consider myself an innovative problem-solver, who is passionate about developing apps with a focus on responsive design, and development. 
+          My strengths lie in creativity, teamwork, and building projects from ideation to execution.</h4>
       </div>
     </div>
   );
